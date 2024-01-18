@@ -1,8 +1,24 @@
 ---
 layout: page
-title: Grammatic
+title: Grammatic de Mundolingue (1899)
+nav_title: Grammatic
 permalink: /grammatic/
 ---
+
+Ist pagin contine un transcript del capitel "Grammatic" ex le libre [*Un lingue international pro le cultivat nations de tot mund*][grammatic_onb]{:target="_blank"}, le ultim version del lingue, publicat in 1899 "pro le practic application durant le exposition universal in Paris 1900".
+
+*Remarcs:*
+
+- Le original libre esse script in quin lingues: german, anglian, frances, italian et Mundolingue. Generalu, ist transcription contine solu le text in Mundolingue, ma qualque tabelles de vocabular include traductions in german et anglian.
+- Evident errors (ortographic, print etc.) ha essit correct.
+- Qualque parols ha essit adaptat al modern german ortografie.
+
+---
+<br>
+**Content:**
+
+- TOC
+{:toc}
 
 ## Alfabet
 
@@ -115,6 +131,7 @@ z = s|||pronunciation (qua) = s
 | a te | a vos |
 | te | vos |
 | tei | vostri (-o, -a) |
+| | |
 | ele | eles |
 | de le | de les |
 | a le | a les |
@@ -129,12 +146,12 @@ z = s|||pronunciation (qua) = s
 | de lo |(de se) | de los |(de se) |
 | a lo |(a se) | a los |(a se) |
 | lo |(se) | los |(se) |
-| |(transit.) sei | lostri |
+| (transit.) sei || lostri |
 | ela |(reflex) | elas |(reflex) |
 | de la |(de se) | de las |(de se) |
 | a la |(a se) | a las |(a se) |
 | la |(se) | las |(se) |
-| |(transit.) sei | lostri |(lastri?) |
+| (transit.) sei || lostri |(lastri?) |
 | on |(reflex) |
 | de on |(de se) |
 | a on |(a se) |
@@ -971,3 +988,5 @@ silence!|still!|silence!
 vae me!|weh mir!|woe me!
 via! ab!|weg! fort!|away!
 oh dio!|ach Gott!|o heavens!
+
+[grammatic_onb]: https://digital.onb.ac.at/RepViewer/viewer.faces?doc=DTL_3408523&order=1&view=SINGLE

@@ -1,8 +1,14 @@
 ---
 layout: page
 title: Exemples
+nav_title: Exemples
 permalink: /exemples/
 ---
+
+Su ist pagin Vo trova le exemplar letters et frases ex le capitel "Letters et dialogs" de [*Un lingue international pro le cultivat nations de tot mund*][grammatic_onb]{:target="_blank"}.
+
+- TOC
+{:toc}
 
 ## Letters
 
@@ -24,7 +30,7 @@ Berlin, 1898 a 21. August
 
 Amabil amico!
 
-Con grand satisfaction mi ha lect tei letter de le mundolingue. Le possibilitá de un universal lingue pro le civilisat nations ne esse dubitabil, nam noi ha tot elements pro un tal lingue in nostri lingues, sciences etc. Noi trova in le cultur lingues plus qua 7000 general intelligibl expressions, quel con lostri derivations representa un respectabil vocabular, sufficient pro le reciproc communication. Le simpl, latin pronunciation et accentuation facilita le parlar et le intelliger et le simpl et regular grammatic fa le mundolingue ad facilissimi lingue del mund. Mi propagaré le universal lingue et conquireré partisans pro ist. Adio!
+Con grand satisfaction mi ha lect tei letter de le mundolingue. Le possibilitá de un universal lingue pro le civilisat nations ne esse dubitabil, nam noi ha tot elements pro un tal lingue in nostri lingues, sciences etc. Noi trova in le cultur lingues plus qua 7000 general intelligibil expressions, quel con lostri derivations representa un respectabil vocabular, sufficient pro le reciproc communication. Le simpl, latin pronunciation et accentuation facilita le parlar et le intelliger et le simpl et regular grammatic fa le mundolingue ad facilissimi lingue del mund. Mi propagaré le universal lingue et conquireré partisans pro ist. Adio!
 
 Tei amico N. N.
 
@@ -197,8 +203,7 @@ Vostri devot servo
 - Attende Vo.
 - Sta! Halt!
 
-### Depart
-
+- **Depart**
 - Quant kilometres esse de is a Paris?
 - Cent kilometres.
 - A qual hor departi le tren (le vaporinavig)?
@@ -233,8 +238,7 @@ Vostri devot servo
 - Qua long temp(or) remaneré noi in ist loc?
 - Le distance de X, esse ele plus grand per terre o per aque?
 
-### Arrive
-
+- **Arrive**
 - Finu noi ha arrivat san et salvi.
 - Ist sex collis veni a X.
 - Esse le alberges (hotels) bon?
@@ -306,8 +310,7 @@ Vostri devot servo
 - Is esse le garson con le papir; mi andaré a mei camer.
 - Ist sir via con nos et noi ne opta separar nos.
 
-### Far un visite
-
+- **Far un visite**
 - Bon matin, qua sta?
 - Benissimi.
 - Qua sta Vostri sanitá?
@@ -324,3 +327,5 @@ Vostri devot servo
 - El grandina.
 - Gela el?
 - Mi vide un archincel (arch celest).
+
+[grammatic_onb]: https://digital.onb.ac.at/RepViewer/viewer.faces?doc=DTL_3408523&order=1&view=SINGLE

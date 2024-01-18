@@ -1,10 +1,19 @@
 ---
 layout: page
-title: Pro Occidentalistes
+title: Mundolingue et Occidental
+#nav_title: Occidental?
+nav_title: Pro Occidentalistes
 permalink: /mundolingue-occidental/
 ---
 
-Ist pagin presenta util informations ad comparar Mundolingue et Occidental. Ele usa modern Occidental; le original lingue presentat de E. de Wahl in 1922 esseve ancor un pauci plus simil al lingue de Lott (p.ex. *mi* qua personal pronom del nominative, plus mult substantives con consonantic termination).
+Ist pagin presenta util informations ad comparar Occidental con Mundolingue, un de sei precursors. Ele usa modern Occidental; le original lingue presentat de Edgar de Wahl in 1922 esseve ancor un pauci plus simil al lingue de Lott (p.ex. *mi* qua personal pronom del nominative, plus mult substantives con consonantic termination).
+
+- TOC
+{:toc}
+
+## Le max grand difference
+
+... inter Mundolingue et Occidental esse, che Mundolingue possede quasi neun regular metode de derivation. Ele esse tre simil a Occidental in form et aspect, ma generalu, Lott adoptave solu le international parols sin regularisar les. Contru, Edgar de Wahl trovave un sistem quel permette facil formation de multissimi international parols per qualque simpl reguls et un prudent selection de radics -- un capabilitá quel manca quasi total in Mundolingue, quo on dove apprender le numeros irregularitás et exceptions del natural lingues (antetot latin).
 
 ## Fals amicos
 
@@ -29,11 +38,10 @@ ha; have|ha
 por|pro
 pro|ob
 
-## Comparativ traduction
+## Comparativ traduction (Salute, Jonathan!)
 
-**Salute, Jonathan!**|**Salute, Jonathan!**
+**Quinantesim (50-im) capitul**|**Quinquagesim (50.) capitel**
 ---|---
-*Quinantesim (50-im) capitul*|*Quinquagesim (50.) capitel*
 Ancor un vez noi comensat li horribil operation. Yo ne va scrir li detallies. Ti-ci vez li choc a Lucy esset plu grand, e malgré li mult sangue de Art (malgré li sangue = benque il dat li sangue) ella apen posset respirar denov normalmen. Poy Van Helsing dat la li narcotic por dormir. Quincey Morris eat in bass por jacer sur li sofa pos quel yo reintrat li chambre u yo videt Van Helsing con quelc paperes in li manu. Il hat leet li contenete (contenete = li coses in it) e pensat pri alquicos. Il semblat satisfat, ma trist. Il monstrat me li papere e dit: "It cadet de Lucy just ante li balne."|Ancorien noi iniciave le horribil operation. Mi ne scriberé le details. Istien le shoc a Lucy esseve plus grand, et malgre le mult sangue de Art ela poteve penu respirar normal de novi. Pos, Van Helsing dave a la le narcotic ad dormir. Quincey Morris andave infrors ad cushar se su le sofa, pos que mi reintrave le camer, quo mi videve Van Helsing con qualque papirs in le man. Elo have lect le content et pensave a alque. Elo appareve satisfat, ma trist. Elo monstrave me le papir et dive: "Ele cadeve de Lucy just ante le balne."
 Pos har leet li memorandum scrit de Lucy yo videt li professor e questionat: "In nómine de Deo, quo it significa? Esque ella es foll, o esque it es un horribil dangere?" Yo vermen ne savet quo dir. Van Helsing prendet li papere e dit:|Pos har lect le memorandum script de Lucy mi videve le professor et questionave: "In le nom de Deo, que significa ele? Esse ela follios o esse ele un horribil peril?" Mi veru ne scive que dir. Van Helsing prendeve le papir et dive:
 "Por li moment, ne gena te pri it. Plu tard tu va comprender, ma ne nu. Nu di me li cose pro quel tu ha intrat." Yo rememorat pro quo yo hat intrat li chambre, e dit:|"Pro le moment, ne trubla te ob ele. Plus tard tu intelligeré, ma ne nu. Nu di me le re, ob quel tu ha intrat." Mi rememorave, quar mi have intrat le camer, et dive:
