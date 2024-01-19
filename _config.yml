@@ -57,6 +57,8 @@ plugins:
 header_pages:
   - index.md
   - julius_lott.md
+  - historie.md
   - grammatic.md
   - exemples.md
+  - kosmopolit.md
   - occ.md

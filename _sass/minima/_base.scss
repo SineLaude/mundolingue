@@ -2,12 +2,15 @@
  * Reset some basic elements
  */
 body, h1, h2, h3, h4, h5, h6,
-p, blockquote, pre, hr,
+p, blockquote, pre,
 dl, dd, ol, ul, figure {
   margin: 0;
   padding: 0;
 }
 
+hr {
+  margin: 20px 0px;
+}
 
 
 /**
@@ -129,7 +132,8 @@ a {
  * Blockquotes
  */
 blockquote {
-  color: $grey-color;
+  //color: $grey-color;
+  color: #3f3f3f;
   border-left: 4px solid $grey-color-light;
   padding-left: $spacing-unit / 2;
   @include relative-font-size(1.125);

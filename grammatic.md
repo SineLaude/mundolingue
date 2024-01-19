@@ -10,11 +10,11 @@ Ist pagin contine un transcript del capitel "Grammatic" ex le libre [*Un lingue 
 *Remarcs:*
 
 - Le original libre esse script in quin lingues: german, anglian, frances, italian et Mundolingue. Generalu, ist transcription contine solu le text in Mundolingue, ma qualque tabelles de vocabular include traductions in german et anglian.
-- Evident errors (ortographic, print etc.) ha essit correct.
+- Evident errors (ortografic, print etc.) ha essit correct.
 - Qualque parols ha essit adaptat al modern german ortografie.
 
 ---
-<br>
+
 **Content:**
 
 - TOC

@@ -5,6 +5,15 @@ nav_title: Julius Lott
 permalink: /julius-lott/
 ---
 
+A ist question responde un eminent interlinguist:
+
+> Lott esset li unesim modern mundlinguist.
+>
+> -- Edgar de Wahl
+
+Le significance del labors de Lott
+
+
 Heinrich Lott, 
 
 > Mi oncle Julius Lott nascet ye li 16 februar 1848 in Fürstenfeld in Styria. Li die de su morte es li 21 februar 1905, do il morit in li 58-m annu de su vive quam officiario superior in li direction del Privilegiat Austrian Nordferrovia in Wien.

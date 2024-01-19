@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Mundolingue et Occidental
-#nav_title: Occidental?
-nav_title: Pro Occidentalistes
+nav_title: Occidental?
 permalink: /mundolingue-occidental/
 ---
 
