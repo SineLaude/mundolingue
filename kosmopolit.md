@@ -9,7 +9,7 @@ Is Vo trova transcriptes de tri numers de *Le Kosmopolit*, un gazette redact de 
 
 Vole Vo remarcar:
 
-- Ist gazette esseve publicat pluri annes ante le ultim version de Mundolingue, ergo differe (antetot in ortografie) del lingue usat su le altri pagins.
+- Ist gazette esseve publicat pluri annes ante le ultim version de Mundolingue, ergo differe (antetot in ortografie) del lingue usat su le altri pagins de ist websit.
 - Le gazette esseve script in du colonnes: sinistra le text in Mundolingue, dextra sei traduction in german. Solu le text in Mundolingue ha essit transcript is.
 
 ---

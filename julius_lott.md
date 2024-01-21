@@ -5,37 +5,31 @@ nav_title: Julius Lott
 permalink: /julius-lott/
 ---
 
-A ist question responde un eminent interlinguist:
+A ist question responde un eminent membre del interlinguistic communitá:
 
 > Lott esset li unesim modern mundlinguist.
 >
 > -- Edgar de Wahl
 
-Le significance del labors de Lott
+Dum ist caracterisation describe bene le important linguistic labors de Lott, per quel se occupa le reste del websit, ist pagin esse dedicat al person Julius Lott et sei vit.
 
+---
 
-Heinrich Lott, 
+<figure style="margin:0px 20px; float:right; width:200px;">
+    <img src="{% link img/lott_1900.jpg %}" alt="Julius Lott, ca. 1900">
+    <figcaption style="font-size:0.8em;">Julius Lott, ca. 1900. Font: <a href="http://data.onb.ac.at/rec/baa7817218" target="_blank">Österreichische Nationalbibliothek</a></figcaption>
+</figure>
 
-> Mi oncle Julius Lott nascet ye li 16 februar 1848 in Fürstenfeld in Styria. Li die de su morte es li 21 februar 1905, do il morit in li 58-m annu de su vive quam officiario superior in li direction del Privilegiat Austrian Nordferrovia in Wien.
-> ...
-> Por Julius Lott li carriera militari esset selectet. Il esset misset al Academie Militari in Wr. Neustadt, quel il quittat in 1866 quam leutnant de artillerie por participar strax li campan’e contra Prussia.
-> ...
-> Ma Julius Lott plu tard trovat ne plu joy de su carriera militari, nam il quittat voluntari li servicie militari e intrat li servicie civil del Privilegiat Austrian Nordferrovia. Il maritat se con Ernestine Paulizza, li filia de un architect e ingeniero de Graz.
->
-> -- Heinrich Lott
+Julius Lott nasceve le 16. Februar 1845 o 1848[^1] in Fürstenfeld in Stiria, Austria.
 
-> From this immediately ensues the parole for a rational formation of a universal language; this parole is: "To use all what is generally known."
->
-> -- Julius Lott
+Heinrich Lott, filio del frater de Julius, scribe de sei uncul[^2]:
 
-> Lott esset li unesim modern mundlinguist.
->
-> -- Edgar de Wahl
+> Por Julius Lott li carriera militari esset selectet. Il esset misset al Academie Militari in Wr. Neustadt, quel il quittat in 1866 quam leutnant de artillerie por participar strax li campan’e contra Prussia. [...] Ma Julius Lott plu tard trovat ne plu joy de su carriera militari, nam il quittat voluntari li servicie militari e intrat li servicie civil del Privilegiat Austrian Nordferrovia. Il maritat se con Ernestine Paulizza, li filia de un architect e ingeniero de Graz.
 
-> Il quasi predessinat li general form del futur L. I., constructet ex elementes del international paroles.
->
-> -- Edgar de Wahl
+Elo morive le 21. Februar 1905 in Vienna.
 
-> Far un salta ínmediat de Volapük a Mundolingue monstra un spíritu extraordinarimen clar.
->
-> -- Ric Berger
+officiario superior in li direction del Privilegiat Austrian Nordferrovia in Wien.
+
+[^1]: 1845 trova se qua anne de nascence in Wikipedia et ÖNB; incontra, Heinrich Lott (vide 2) scribe che sei uncul nasceve 1848.
+[^2]: Letter a Karl Janotta publicat in Cosmoglotta nr. 68, 1930.
+[^3]: Julius Lott, ca. 1900. Font: [Österreichische Nationalbibliothek]{http://data.onb.ac.at/rec/baa7817218}

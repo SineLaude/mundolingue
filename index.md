@@ -7,9 +7,12 @@ nav_title: Benevenit
 title: Benevenit a Mundolingue!
 ---
 
-Ist web-pagin vole presentar [Mundolingue][grammatic], un del prim naturalistic auxiliar lingues, et commemorar sei creator [Julius Lott][julius_lott] (1845-1905), un quasi obliviat pioner in ist camp.
+Ist pagins vole presentar [Mundolingue][grammatic], un del prim naturalistic auxiliar lingues, et commemorar sei creator [Julius Lott][julius_lott], un quasi obliviat pioner in ist camp.
 
-![Un lingue international pro le cultivat nations de tot mund : grammatic, dialogs, letters et vocabular](img/ml_1899_titul.jpg){:style="float:right; width:200px;"}[^1]
+<figure style="margin:0px 20px; float:right; width:200px;">
+    <img src="{% link img/ml_1899_titul.jpg %}" alt="Un lingue international pro le cultivat nations de tot mund : grammatic, dialogs, letters et vocabular">
+    <figcaption style="font-size:0.8em;">"Un lingue international pro le cultivat nations de tot mund", 1899. Font: <a href="http://data.onb.ac.at/rec/AC04213232" target="_blank">Österreichische Nationalbibliothek</a></figcaption>
+</figure>
 
 > Lott esset li unesim modern mundlinguist.
 >
@@ -23,4 +26,3 @@ Le austriano Julius Lott esseve un activ Volapükist et scribeve libres pro auto
 
 [grammatic]: {% link grammatic.md %}
 [julius_lott]: {% link julius_lott.md %}
-[^1]: "Un lingue international pro le cultivat nations de tot mund: grammatic, dialogs, letters et vocabular", 1899. Font: [Österreichische Nationalbibliothek](http://data.onb.ac.at/rec/AC04213232)
