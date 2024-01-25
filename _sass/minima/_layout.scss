@@ -256,3 +256,7 @@
     }
   }
 }
+
+.footnotes {
+  @include relative-font-size(0.8);
+}
