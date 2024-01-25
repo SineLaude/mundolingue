@@ -8,7 +8,7 @@ title: Benevenit a Mundolingue!
 ---
 
 <figure style="margin:0px 20px; float:right; width:200px;">
-    <img src="{% link img/ml_1899_titul.jpg %}" alt="Un lingue international pro le cultivat nations de tot mund : grammatic, dialogs, letters et vocabular">
+    <img src="{{ site.baseurl }}{% link img/ml_1899_titul.jpg %}" alt="Un lingue international pro le cultivat nations de tot mund : grammatic, dialogs, letters et vocabular">
     <figcaption style="font-size:0.8em;">"Un lingue international pro le cultivat nations de tot mund", 1899. Font: <a href="http://data.onb.ac.at/rec/AC04213232" target="_blank">Österreichische Nationalbibliothek</a></figcaption>
 </figure>
 
@@ -19,12 +19,12 @@ Is Vo pote:
 - decuvrir le [historie][historie] de Mundolingue,
 - familiarisar Vos con [Julius Lott][julius_lott],
 - apprender le [grammatic][grammatic] del lingue,
-- leger le gazette [*Le Kosmopolit*]({% link kosmopolit.md %}),
+- leger le gazette [*Le Kosmopolit*]({{ site.baseurl }}{% link kosmopolit.md %}),
 - comparar Mundolingue con [Occidental][occidental] ...
 
 ... et ancor plus!
 
-[grammatic]: {% link grammatic.md %}
-[historie]: {% link historie.md %}
-[julius_lott]: {% link julius_lott.md %}
-[occidental]: {% link occ.md %}
+[grammatic]: {{ site.baseurl }}{% link grammatic.md %}
+[historie]: {{ site.baseurl }}{% link historie.md %}
+[julius_lott]: {{ site.baseurl }}{% link julius_lott.md %}
+[occidental]: {{ site.baseurl }}{% link occ.md %}

@@ -15,12 +15,12 @@ Vole Vo remarcar:
 
 ---
 
-- [Le Kosmopolit No. 1 (December 1892)]({% link kosmopolit/1.md %})
-- [Le Kosmopolit No. 2 (Januar 1893)]({% link kosmopolit/2.md %})
-- [Le Kosmopolit No. 3 (Februar 1893)]({% link kosmopolit/3.md %})
+- [Le Kosmopolit No. 1 (December 1892)]({{ site.baseurl }}{% link kosmopolit/1.md %})
+- [Le Kosmopolit No. 2 (Januar 1893)]({{ site.baseurl }}{% link kosmopolit/2.md %})
+- [Le Kosmopolit No. 3 (Februar 1893)]({{ site.baseurl }}{% link kosmopolit/3.md %})
 
 ---
 
 Lege Vo eti:
 
-- [La «lingue» de s-ro Lott]({% link kosmopolit/esperantisto.md %}) (articul in *La Esperantisto* de 1893 qua reaction a *Le Kosmopolit*)
+- [La «lingue» de s-ro Lott]({{ site.baseurl }}{% link kosmopolit/esperantisto.md %}) (articul in *La Esperantisto* de 1893 qua reaction a *Le Kosmopolit*)

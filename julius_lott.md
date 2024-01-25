@@ -14,7 +14,7 @@ A ist question responde un eminent membre del interlinguistic communitá:
 Dum ist caracterisation describe bene le important linguistic labors de Lott, per quel se occupa le reste del websit, ist pagin esse dedicat al person Julius Lott et sei vit.
 
 <figure style="margin:0px 20px; float:right; width:200px;">
-    <img src="{% link img/lott_1900.jpg %}" alt="Julius Lott, ca. 1900">
+    <img src="{{ site.baseurl }}{% link img/lott_1900.jpg %}" alt="Julius Lott, ca. 1900">
     <figcaption style="font-size:0.8em;"><span markdown="1">Julius Lott, ca. 1900.[^3]</span></figcaption>
 </figure>
 
