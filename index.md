@@ -19,7 +19,7 @@ Is Vo pote:
 - decuvrir le [historie][historie] de Mundolingue,
 - familiarisar Vos con [Julius Lott][julius_lott],
 - apprender le [grammatic][grammatic] del lingue,
-- leger le gazette [Le Kosmopolit]({% link kosmopolit.md %}),
+- leger le gazette [*Le Kosmopolit*]({% link kosmopolit.md %}),
 - comparar Mundolingue con [Occidental][occidental] ...
 
 ... et ancor plus!

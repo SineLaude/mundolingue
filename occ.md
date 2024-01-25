@@ -5,7 +5,7 @@ nav_title: Occidental?
 permalink: /mundolingue-occidental/
 ---
 
-Ist pagin presenta util informations ad comparar Occidental con Mundolingue, un de sei precursors. Ele usa modern Occidental; le original lingue presentat de Edgar de Wahl in 1922 esseve ancor un pauci plus simil al lingue de Lott (p.ex. *mi* qua personal pronom del nominative, plus mult substantives con consonantic termination).
+Ist pagin presenta util informations ad comparar Occidental con Mundolingue, "un precursor ínjustmen obliviat"[^1]. Ele usa modern Occidental; le original lingue presentat de Edgar de Wahl in 1922 esseve ancor un pauci plus simil al lingue de Lott (p.ex. *mi* qua personal pronom del nominative, plus mult substantives con consonantic termination).
 
 - TOC
 {:toc}
@@ -39,7 +39,7 @@ pro|ob
 
 ## Comparativ traduction (Salute, Jonathan!)
 
-Le sequent tabelle contine un parallel traduction de un capitel del libre [Salute, Jonathan!](https://en.wikibooks.org/wiki/Salute,_Jonathan!){:target="_blank"} (creat de Mithridates et al.; licence: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/){:target="_blank"}; explications in parenteses omiss).
+Seque un parallel traduction de un capitel del libre [Salute, Jonathan!](https://en.wikibooks.org/wiki/Salute,_Jonathan!){:target="_blank"} (creat de Mithridates et al.; licence: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/){:target="_blank"}; explications in parenteses omiss).
 
 **Quinantesim (50-im) capitul**|**Quinquagesim (50.) capitel**
 ---|---
@@ -61,3 +61,7 @@ Quande yo intrat li dom yo videt Quincey atendent me. Yo dit le que yo in prim v
 “Deci dies! Alor yo suposi, Jack Seward, que in li córpor de ti pretti creatura quel noi ama ha intrat li sangue de quar fort mannes. Mann! Su córpor ne vell posser posseder it.” Poy, aproximante se, il parlat demí-susurrante: “Quo ha extraet it?”|"Dece dies! Alor mi suppose, Jack Seward, che in li corpor de ist belli creatur, quel noi ama, ha intrat li sangue de quar fort homos. Perdio! Sei corpor ne poteréi posseder le." Pos, approximant se, elo parlave dimi-sufflant: "Que ha extrat le?"
 Yo fat un geste con mi cap. “Ta,” yo dit, “jace li problema. Van Helsing labora quam un follo pri li problema, e yo simplicmen save absolutmen nullcos. Quelc evenimentes fat nor observationes de Lucy in van. Ma ili es finit – noi va restar ci, til li fine, bon o mal.” Quincey extendet su manu.|Mi fave un gest con mei cap. "To", mi dive, "esse situat le problem." Van Helsing labora qua un follio al problem, et mi sci simpl absolut nihil. Qualque events fave nostri observations de Lucy in van. Ma eles esse finit - noi restaré is, usque ad le fin, bon o mal. Quincey extendeve sei man.
 “Yo va auxiliar,” il dit. “Tu e li nederlandeso va ordinar me quo far, e yo va far it.” |"Mi auxiliaré", elo dive. "Tu et le nederlandeso ordinaré me que far, et mi faré le."
+
+---
+
+[^1]: Titul de un articul de Ric Berger in Cosmoglotta nr. 57, 1929.

@@ -5,7 +5,7 @@ nav_title: Exemples
 permalink: /exemples/
 ---
 
-Su ist pagin Vo trova le exemplar letters et frases ex le capitel "Letters et dialogs" de [*Un lingue international pro le cultivat nations de tot mund*][grammatic_onb]{:target="_blank"}.
+Su ist pagin Vo trova le exemplar letters et frases ex le capitel *Letters et dialogs* de [*Un lingue international pro le cultivat nations de tot mund*][grammatic_onb]{:target="_blank"}.
 
 - TOC
 {:toc}

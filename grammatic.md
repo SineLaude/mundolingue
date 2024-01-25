@@ -5,7 +5,7 @@ nav_title: Grammatic
 permalink: /grammatic/
 ---
 
-Ist pagin contine un transcript del capitel "Grammatic" ex le libre [*Un lingue international pro le cultivat nations de tot mund*][grammatic_onb]{:target="_blank"}, le ultim version del lingue, publicat in 1899 "pro le practic application durant le exposition universal in Paris 1900".
+Ist pagin contine un transcript del capitel *Grammatic* ex le libre [*Un lingue international pro le cultivat nations de tot mund*][grammatic_onb]{:target="_blank"}, le ultim version del lingue, publicat in 1899 "pro le practic application durant le exposition universal in Paris 1900".
 
 *Remarcs:*
 
