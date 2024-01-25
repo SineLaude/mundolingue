@@ -14,7 +14,7 @@ Ist pagin presenta le historie de Mundolingue -- del activitá de Julius Lott pr
 
 > No artificial language, but a simple, plain language for the common intercourse, useful to every body.
 >
-> -- Julius Lott
+> -- Julius Lott [^4]
 
 Anne|Event
 ---|---
@@ -25,7 +25,7 @@ Anne|Event
 
 > Far un salta ínmediat de Volapük a Mundolingue monstra un spíritu extraordinarimen clar.
 >
-> -- Ric Berger
+> -- Ric Berger [^2]
 
 **1890**|Correspondence inicia se inter Lott et Edgar de Wahl.<br><br>Appari le [*Grammatik der Weltsprache ("Mondolingue")*](https://digital.onb.ac.at/RepViewer/viewer.faces?doc=DTL_3070380&order=1&view=SINGLE){:target="_blank"} et le quadrilingual libre [*Un lingua internazional: grammatika et vokabular pro angleses, germanes, romanes et pro kultivates de tut mond*](https://digital.onb.ac.at/RepViewer/viewer.faces?doc=DTL_3072009&order=1&view=SINGLE){:target="_blank"}, quel ultim contine le grammatic et un complet dictionar del lingue.
 **1891**|Pos har quasi perdit corage ob le missuccess de sei efforses, Lott edite un [*Suplent folie ad mie internazional lingue*](https://digital.onb.ac.at/RepViewer/viewer.faces?doc=DTL_6981300&order=1&view=SINGLE){:target="_blank"}, quel contine eti propositions de altri interlinguistes qua Edgar de Wahl et Alberto Liptay.
@@ -37,8 +37,11 @@ Anne|Event
 
 > Il quasi predessinat li general form del futur L. I., constructet ex elementes del international paroles.
 >
-> -- Edgar de Wahl
+> -- Edgar de Wahl [^3]
 
 ---
 
-[^1]: Font: "Mitglieder der Volapük-Akademie, um 1887", [Österreichische Nationalbibliothek](http://data.onb.ac.at/rec/baa9713426){:target="_blank"}
+[^2]: *Un precursor ínjustmen obliviat*, Cosmoglotta nr. 57, 1929.
+[^3]: *Interlinguistic reminiscenties*, Cosmoglotta nr. 68, 1930.
+[^4]: *Un lingua internazional: grammatika et vokabular pro angleses, germanes, romanes et pro kultivates de tut mond*, 1890, p. XVII.
+[^1]: Font: *Mitglieder der Volapük-Akademie, um 1887*, [Österreichische Nationalbibliothek](http://data.onb.ac.at/rec/baa9713426){:target="_blank"}

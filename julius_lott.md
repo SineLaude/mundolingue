@@ -9,7 +9,7 @@ A ist question responde un eminent membre del interlinguistic communitá:
 
 > Lott esset li unesim modern mundlinguist.
 >
-> -- Edgar de Wahl
+> -- Edgar de Wahl [^4]
 
 Dum ist caracterisation describe bene le important linguistic labors de Lott, per quel se occupa le reste del websit, ist pagin esse dedicat al person Julius Lott et sei vit.
 
@@ -30,10 +30,11 @@ Heinrich Lott, filio del frater de Julius, scribe[^2] de sei uncul:
 
 Elo have minimu du infantes, inter quel esseve minimu du filias. Sei marita lamentave che elo have trop pauci temp pro sei familie ob sei lingual activitá; sei libres et sei international correspondence, quel elo have con altri interlinguistes "in grand extension", ne ha essit conservat de sei familie.[^2]
 
-Lott morive le 21. Februar 1905 in Vienna. Al temp de sei mort, elo esseve superior officialo in le direction del Privilegit Austrian Nord-Ferrovie in Vienna.
+Lott morive le 21. Februar 1905 in Vienna. Al temp de sei mort, elo esseve superior officialo in le direction del ferrovie.
 
 ---
 
 [^1]: 1845 trova se qua anne de nascence in Wikipedia et ÖNB; incontra, Heinrich Lott (vide 2) scribe che sei uncul nasceve 1848.
 [^2]: Letter de Heinrich Lott a Karl Janotta publicat in Cosmoglotta nr. 68, 1930.
-[^3]: Julius Lott, ca. 1900. Font: [Österreichische Nationalbibliothek](http://data.onb.ac.at/rec/baa7817218){:target="_blank"}
+[^4]: *Interlinguistic reminiscenties*, Cosmoglotta nr. 68, 1930.
+[^3]: *Julius Lott*, ca. 1900. Font: [Österreichische Nationalbibliothek](http://data.onb.ac.at/rec/baa7817218){:target="_blank"}
