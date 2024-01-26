@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-nav_title: Benevent
-title: Benevent a Mundolingue!
+nav_title: Benevenit
+title: Benevenit a Mundolingue!
 ---
 
 <figure style="margin:0px 20px; float:right; width:200px;">
