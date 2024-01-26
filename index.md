@@ -9,7 +9,7 @@ title: Benevent a Mundolingue!
 
 <figure style="margin:0px 20px; float:right; width:200px;">
     <img src="{{ site.baseurl }}{% link img/ml_1899_titul.jpg %}" alt="Un lingue international pro le cultivat nations de tot mund : grammatic, dialogs, letters et vocabular">
-    <figcaption style="font-size:0.8em;"><i>Un lingue international pro le cultivat nations de tot mund</i>, 1899. Font: <a href="http://data.onb.ac.at/rec/AC04213232" target="_blank">Österreichische Nationalbibliothek</a></figcaption>
+    <figcaption style="font-size:0.8em;">"Un lingue international pro le cultivat nations de tot mund", 1899. Font: <a href="http://data.onb.ac.at/rec/AC04213232" target="_blank">Österreichische Nationalbibliothek</a></figcaption>
 </figure>
 
 Ist pagins vole presentar [Mundolingue][grammatic], un del prim naturalistic auxiliar lingues, et commemorar sei creator [Julius Lott][julius_lott], un quasi obliviat pionero in ist camp.
