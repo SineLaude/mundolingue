@@ -34,7 +34,7 @@ Lott morive le 21. Februar 1905 in Vienna. Al temp de sei mort, elo esseve super
 
 ---
 
-[^1]: 1845 trova se qua anne de nascence in Wikipedia et ÖNB; incontra, Heinrich Lott (vide 2) scribe che sei uncul nasceve 1848.
+[^1]: 1845 trova se qua anne de nascence in Wikipedia et ÖNB; incontra, Heinrich Lott scribe in [^2] che sei uncul nasceve 1848.
 [^2]: Letter de Heinrich Lott a Karl Janotta publicat in Cosmoglotta nr. 68, 1930.
 [^4]: *Interlinguistic reminiscenties*, Cosmoglotta nr. 68, 1930.
 [^3]: *Julius Lott*, ca. 1900. Font: [Österreichische Nationalbibliothek](http://data.onb.ac.at/rec/baa7817218){:target="_blank"}
